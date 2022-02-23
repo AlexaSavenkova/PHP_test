@@ -1,3 +1,3 @@
 <?php
-
-echo 'My PHP test';
+include 'vendor/autoload.php';
+include 'src/app.php';

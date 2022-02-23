@@ -1,0 +1,17 @@
+{
+    "name": "alexandra/geekbrains",
+    "autoload": {
+        "psr-4": {
+            "GeekBrains\\": "src/Geekbrains"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexandra",
+            "email": "sav_alexandra@yahoo.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.19"
+    }
+}
